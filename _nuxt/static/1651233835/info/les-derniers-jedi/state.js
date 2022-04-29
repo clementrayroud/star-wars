@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fstar-wars\u002F_nuxt\u002Fstatic\u002F1651233835",layout:"default",error:a,serverRendered:true,routePath:"\u002Finfo\u002Fles-derniers-jedi",config:{_app:{basePath:"\u002Fstar-wars\u002F",assetsPath:"\u002Fstar-wars\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"0d085c57"}}}}(null));
