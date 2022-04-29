@@ -1,0 +1,22 @@
+---
+label: film
+hide_body: true
+fields:
+- type: text
+  name: titre
+  label: titre
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: sortie
+  label: sortie
+- type: number
+  name: classement
+  label: classement
+- type: text
+  name: video
+  label: video
