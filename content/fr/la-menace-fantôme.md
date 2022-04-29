@@ -9,7 +9,6 @@ description: |
         Commerce a envahi Naboo dans le cadre d'un plan secret des Sith visant à accroître 
         leur pouvoir.
 image: /star-wars-1.webp
-link: /infoo/1
 sortie: 1995
 classement: 1
 video: https://www.youtube.com/embed/G9e3R-vkj_A

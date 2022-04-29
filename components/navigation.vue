@@ -2,15 +2,13 @@
 <template>
  <div>
  <b-navbar toggleable="lg" type="dark" variant="dark"fixed="top">
-    <b-navbar-brand href="#"><img src="/star wars logo.png"class="logo"></b-navbar-brand>
+    <b-navbar-brand href="#"><img src="/star-wars/star wars logo.png"class="logo"></b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="/">accueil</b-nav-item>
-        <b-nav-item href="/film">films</b-nav-item>
-        <b-nav-item href="/info">info</b-nav-item>
-        <b-nav-item href="#" disabled>Disabled</b-nav-item>
+        <b-nav-item href="/star-wars/">accueil</b-nav-item>
+        <b-nav-item href="/star-wars/film">films</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->

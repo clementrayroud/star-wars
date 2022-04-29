@@ -49,7 +49,7 @@ export default {
 <style>
 body{
    color:white;font-size:30px;
-   background-image:url("/etoil.jpg");
+   background-image:url("/star-wars/etoil.jpg");
    background-attachment: fixed;
    
    

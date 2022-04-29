@@ -31,7 +31,7 @@ export default {
 
 h1{color:red;text-align: center;}
 p{color:gold;font-size: 60px;}
-body{background-image:url("/etoil.jpg");background-attachment: fixed;  font-family: "Droid Sans", arial, verdana, sans-serif;
+body{background-image:url("/star-wars/etoil.jpg");background-attachment: fixed;  font-family: "Droid Sans", arial, verdana, sans-serif;
 	font-weight: 700;}
 
 .par p{margin:30px;text-align: justify;  text-shadow:

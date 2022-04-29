@@ -8,7 +8,7 @@
     <p>{{film.titre}}</p>
 
         {{film.classement}}
-    <img :src="film.image" />
+    <img :src="'/star-wars'+film.image" />
     <div class=descr><p>{{film.description}}</p></div>
         {{film.sortie}}
 
@@ -33,7 +33,7 @@ export default {
 <style>
 body{
    color:rgb(255, 255, 255);font-size:30px;
-   background-image:url("/etoil.jpg");
+   background-image:url("/star-wars/etoil.jpg");
    background-attachment: fixed;
 font-family : 'Tapestry', cursive ;
    }

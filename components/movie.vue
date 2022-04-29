@@ -5,8 +5,8 @@
   {{titre}}</h1>
   {{sortie}}
   <p>{{description}}</p>
-  <a :href="'info/'+link"> 
-    <img :src="image"/></a>
+  <nuxt-link :to="'/info/'+link"> 
+    <img :src="'/star-wars'+image"/></nuxt-link>
     
  
 
