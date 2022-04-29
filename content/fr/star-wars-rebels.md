@@ -6,7 +6,7 @@ description: "Star Wars Rebels propose de découvrir une planète très, très l
   lutter contre les stormtroopers, combattants de l'Empire.\n"
 sortie: 2014-10-03
 image: "/rebels.webp"
-classement: "6.8"
+classement: "3.8"
 video: https://www.youtube.com/embed/W-UmFkZ7BYo
 
 ---
