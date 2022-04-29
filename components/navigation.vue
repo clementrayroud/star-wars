@@ -8,7 +8,7 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
         <b-nav-item href="/star-wars/">accueil</b-nav-item>
-        <b-nav-item href="/star-wars/film">films</b-nav-item>
+        <b-nav-item href="/star-wars/film">films et serie</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
