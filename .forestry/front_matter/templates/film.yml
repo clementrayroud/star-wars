@@ -21,4 +21,5 @@ fields:
   name: video
   label: video
 pages:
+- content/fr/rogue-one.md
 - content/fr/solo.md
