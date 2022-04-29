@@ -6,7 +6,7 @@ description: Le jeune Han Solo par à l'aventure en se joignant à un gang de co
   Kessel afin de voler un lot de précieux coaxium. Solo a besoin d'un vaisseau rapide
   et rencontre Lando Calrissian, le suave propriétaire du vaisseau parfait pour la
   dangereuse mission -- le Faucon Millenium.
-image: "/coffre-bois-style-pirate_2000x.jpg"
+image: "/image_517b1d6c.webp"
 sortie: 2018-05-10T21:00:00Z
 classement: 1
 video: https://www.youtube.com/embed/YjEAoKX6mDw
