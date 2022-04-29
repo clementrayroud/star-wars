@@ -8,7 +8,7 @@ description: |
  précédent, tenté par le côté obscur de la Force, il prête allégeance au maléfique 
  Darth Sidious et devient Dark Vador.Les Seigneurs Sith s'unissent alors pour préparer 
  leur revanche, qui commence par l'extermination des Jedi.
-sortie: 2002
+sortie: 2005-05-18
 classement: 3
 video: https://www.youtube.com/embed/t1qtvKYwTV0
 ---

@@ -12,11 +12,11 @@
 <h1>sta wars</h1>
  <center><div class="par"><p>
    Un saigneur sith apparait après des décennies de paix. 
-   Des millions de cloneps sont créés pour poursuivre la guerre. 
-   Le saigneur Sidious  retourne les clones contre les jeudi et gagne la guerre puis il instaure 
+   Des millions de clones sont créés pour poursuivre la guerre. 
+   Le saigneur Sidious  retourne les clones contre les jedi et gagne la guerre puis il instaure 
    une dictature.</p><p> Une alliance rebelle est créée pour rétablir la paix dans la galaxie. l’étoile de la mort explose et l’empire se sépare.</p><p>
-La nouvelle république est créée et Leila organa est critiqué, car sont père était dark wador elle a toujours dit qu’il ne fallait pas supprimé une grosse partie de l’armé, car l’empire reviendra. Elle C’est réfugié en recréent la résistance, le premier ordre renverse la démocratie grasse au nombreux cuirassé et a la basse starkilleur. La résistance re rend sur la planète cachée des sites pour tué palpatine et détruire le premier ordre
-</p><p>fait par Clément Rayroud</p></div>
+La nouvelle république est créée et Leia organa est critiqué, car sont père était dark wador elle a toujours dit qu’il ne fallait pas supprimé une grosse partie de l’armé, car l’empire reviendra. Elle C’est réfugié en recréent la résistance, le premier ordre renverse la démocratie grasse au nombreux cuirassé et a la basse starkilleur. La résistance se rend sur la planète cachée des sites pour tué palpatine et détruire le premier ordre
+</p><center><p>fait par Clément Rayroud</p></center></div>
    </center>
   </div></div></div>
 </template>

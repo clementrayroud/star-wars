@@ -19,7 +19,7 @@ description: |
      ne se détériore. Padmé Amidala, 
     devenue sénatrice, est menacée par les
      séparatistes et échappe à un attentat.
-sortie: 1999
+sortie: 2002-05-16
 classement: 2
 video: https://www.youtube.com/embed/1D7DUNCHXkg
 ---

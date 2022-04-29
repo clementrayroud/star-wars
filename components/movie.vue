@@ -3,7 +3,7 @@
    {{video}}
   <h1>{{classement}}
   {{titre}}</h1>
-  {{sortie}}
+  {{$dateFns.format(sortie,"dd-MM-yyyy")}}
   <p>{{description}}</p>
   <nuxt-link :to="'/info/'+link"> 
     <img :src="'/star-wars'+image"/></nuxt-link>
