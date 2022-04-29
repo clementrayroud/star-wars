@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fstar-wars\u002F_nuxt\u002Fstatic\u002F1651236127",layout:"default",error:a,serverRendered:true,routePath:"\u002Finfo\u002Fl-ascension-de-skywalker",config:{_app:{basePath:"\u002Fstar-wars\u002F",assetsPath:"\u002Fstar-wars\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"226ad5dc"}}}}(null));
