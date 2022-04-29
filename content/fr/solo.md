@@ -1,9 +1,14 @@
 ---
 titre: solo
-description: bla
-image: "/coffre-bois-style-pirate_2000x.jpg"
-sortie: 2021-11-30T23:00:00Z
+description: Le jeune Han Solo par à l'aventure en se joignant à un gang de contrebandiers
+  galactiques, dont un Wookie de 190 ans nommé Chewbacca. Endetté par le gangster
+  Dryden Vos, l'équipage élabore un plan audacieux pour se rendre sur la planète minière
+  Kessel afin de voler un lot de précieux coaxium. Solo a besoin d'un vaisseau rapide
+  et rencontre Lando Calrissian, le suave propriétaire du vaisseau parfait pour la
+  dangereuse mission -- le Faucon Millenium.
+image: "/image_517b1d6c.webp"
+sortie: 2018-05-10T21:00:00Z
 classement: 1
-video: edvmpod
+video: https://www.youtube.com/embed/YjEAoKX6mDw
 
 ---
