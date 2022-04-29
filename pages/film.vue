@@ -32,7 +32,7 @@ import Movie from '../components/movie.vue'
 export default {
 
  async asyncData({$content}){
-    const films=await $content('fr').sortBy('sortie').fetch()
+    const films=await $content('fr').sortBy('classement').fetch()
     return{films}
  },
  data(){
