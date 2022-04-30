@@ -10,7 +10,7 @@ description: 'La galaxie est en proie à la Guerre des Clones, un conflit à gra
   '
 image: "/the clon wars.jpg"
 sortie: 2008-10-03
-classement: "3.5"
+classement: "2.5"
 video: https://www.youtube.com/embed/OMHXnDlG-kY
 
 ---
