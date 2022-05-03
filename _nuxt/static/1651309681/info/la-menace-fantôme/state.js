@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fstar-wars\u002F_nuxt\u002Fstatic\u002F1651309681",layout:"default",error:a,serverRendered:true,routePath:"\u002Finfo\u002Fla-menace-fant%C3%B4me",config:{_app:{basePath:"\u002Fstar-wars\u002F",assetsPath:"\u002Fstar-wars\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"491b826a"}}}}(null));
