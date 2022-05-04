@@ -21,6 +21,7 @@ fields:
   name: video
   label: video
 pages:
+- content/fr/jedi-fallen-order.md
 - content/fr/rogue-one.md
 - content/fr/solo.md
 - content/fr/the-old-republic.md
